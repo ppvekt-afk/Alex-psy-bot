@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+*.db
+postgres_data/
+redis_data/
+chroma_data/
